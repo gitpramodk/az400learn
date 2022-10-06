@@ -1,2 +1,3 @@
 This is FileC for feature branch
 Let's make new change
+This is for squash merge
